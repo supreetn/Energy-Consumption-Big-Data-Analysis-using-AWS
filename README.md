@@ -1,8 +1,8 @@
 
 # Energy Consumption and Climate Data Analysis
 
-With the rapid increase in global energy consumption, it is important to understand which factors impact the most. This project focuses on analysis as forecasting of household energy consumption as well with respect to various climatic conditions.
-We explore big data analytics using AWS platform and its components like AWS Glue Databrew, S3, Redshift etc. 
+With the rapid increase in global energy consumption, it is important to understand which factors impact the most. This project focuses on climate analysis and forecasting of household energy consumption with respect to various climatic conditions.
+We explored big data analytics using AWS platform and its components like AWS Glue Databrew, S3, Redshift etc. 
 
 ## Overview
 Climate is one of the major factors impacting household energy consumption. 
